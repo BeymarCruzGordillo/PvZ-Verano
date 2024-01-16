@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PvZ_B.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C0F849E2-3968-4C8A-B80D-0A3684127890}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PvZ_B.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PvZ_BEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{8CCE4685-D119-4112-A35A-3D0FDA20CB13}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PvZ_B">
+      <UniqueIdentifier>{015111E8-2CD7-415F-8465-8DD106E56740}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\PvZ_B\Plant.cpp">
+      <Filter>Source\PvZ_B</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PvZ_B\Plant.h">
+      <Filter>Source\PvZ_B</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\PvZ_B\PvZ_B.Build.cs">
+      <Filter>Source\PvZ_B</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PvZ_B\PvZ_B.cpp">
+      <Filter>Source\PvZ_B</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PvZ_B\PvZ_B.h">
+      <Filter>Source\PvZ_B</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PvZ_B\PvZ_BGameMode.cpp">
+      <Filter>Source\PvZ_B</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PvZ_B\PvZ_BGameMode.h">
+      <Filter>Source\PvZ_B</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PvZ_B\PvZ_BPawn.cpp">
+      <Filter>Source\PvZ_B</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PvZ_B\PvZ_BPawn.h">
+      <Filter>Source\PvZ_B</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PvZ_B\PvZ_BProjectile.cpp">
+      <Filter>Source\PvZ_B</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PvZ_B\PvZ_BProjectile.h">
+      <Filter>Source\PvZ_B</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PvZ_B\Zombie.cpp">
+      <Filter>Source\PvZ_B</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PvZ_B\Zombie.h">
+      <Filter>Source\PvZ_B</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PvZ_B\ZombieBailarin.cpp">
+      <Filter>Source\PvZ_B</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PvZ_B\ZombieBailarin.h">
+      <Filter>Source\PvZ_B</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PvZ_B\ZombieCono.cpp">
+      <Filter>Source\PvZ_B</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PvZ_B\ZombieCono.h">
+      <Filter>Source\PvZ_B</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
