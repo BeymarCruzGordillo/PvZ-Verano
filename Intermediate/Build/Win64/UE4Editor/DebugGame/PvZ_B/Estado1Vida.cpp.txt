@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\PvZ-Verano\Intermediate\Build\Win64\UE4Editor\DebugGame\PvZ_B\Definitions.PvZ_B.h
+C:\Users\PC\source\repos\PvZ-Verano\Source\PvZ_B\Estado1Vida.h
+C:\Users\PC\source\repos\PvZ-Verano\Source\PvZ_B\Estados.h
+C:\Users\PC\source\repos\PvZ-Verano\Intermediate\Build\Win64\UE4Editor\Inc\PvZ_B\Estados.generated.h
+C:\Users\PC\source\repos\PvZ-Verano\Intermediate\Build\Win64\UE4Editor\Inc\PvZ_B\Estado1Vida.generated.h
+C:\Users\PC\source\repos\PvZ-Verano\Source\PvZ_B\Planta_Estados.h
+C:\Users\PC\source\repos\PvZ-Verano\Intermediate\Build\Win64\UE4Editor\Inc\PvZ_B\Planta_Estados.generated.h

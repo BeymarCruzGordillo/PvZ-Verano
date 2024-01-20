@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\PvZ-Verano\Intermediate\Build\Win64\UE4Editor\DebugGame\PvZ_B\Definitions.PvZ_B.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\PC\source\repos\PvZ-Verano\Source\PvZ_B/ZombiePatriota.h
+C:\Users\PC\source\repos\PvZ-Verano\Source\PvZ_B\Suscriptor.h
+C:\Users\PC\source\repos\PvZ-Verano\Intermediate\Build\Win64\UE4Editor\Inc\PvZ_B\Suscriptor.generated.h
+C:\Users\PC\source\repos\PvZ-Verano\Source\PvZ_B\ZombieAbanderado.h
+C:\Users\PC\source\repos\PvZ-Verano\Source\PvZ_B\Publicador.h
+C:\Users\PC\source\repos\PvZ-Verano\Intermediate\Build\Win64\UE4Editor\Inc\PvZ_B\Publicador.generated.h
+C:\Users\PC\source\repos\PvZ-Verano\Intermediate\Build\Win64\UE4Editor\Inc\PvZ_B\ZombieAbanderado.generated.h
+C:\Users\PC\source\repos\PvZ-Verano\Intermediate\Build\Win64\UE4Editor\Inc\PvZ_B\ZombiePatriota.generated.h

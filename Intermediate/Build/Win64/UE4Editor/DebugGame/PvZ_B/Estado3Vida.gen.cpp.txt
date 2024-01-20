@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\PvZ-Verano\Intermediate\Build\Win64\UE4Editor\DebugGame\PvZ_B\Definitions.PvZ_B.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\PC\source\repos\PvZ-Verano\Source\PvZ_B/Estado3Vida.h
+C:\Users\PC\source\repos\PvZ-Verano\Source\PvZ_B\Estados.h
+C:\Users\PC\source\repos\PvZ-Verano\Intermediate\Build\Win64\UE4Editor\Inc\PvZ_B\Estados.generated.h
+C:\Users\PC\source\repos\PvZ-Verano\Intermediate\Build\Win64\UE4Editor\Inc\PvZ_B\Estado3Vida.generated.h

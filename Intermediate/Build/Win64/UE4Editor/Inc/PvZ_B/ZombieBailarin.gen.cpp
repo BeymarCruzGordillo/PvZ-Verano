@@ -72,7 +72,7 @@ void EmptyLinkFunctionForGeneratedCodeZombieBailarin() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AZombieBailarin, 2562431388);
+	IMPLEMENT_CLASS(AZombieBailarin, 3492113547);
 	template<> PVZ_B_API UClass* StaticClass<AZombieBailarin>()
 	{
 		return AZombieBailarin::StaticClass();

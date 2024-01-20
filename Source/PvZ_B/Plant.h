@@ -10,17 +10,25 @@ UCLASS()
 class PVZ_B_API APlant : public AActor
 {
 	GENERATED_BODY()
-	
-public:	
+
+public:
 	// Sets default values for this actor's properties
 	APlant();
+
+
+private:
+	UPROPERTY(EditAnywhere)
+		UStaticMeshComponent* PlantMesh;
+
+	float velocidad;
 
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
-public:	
+public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
 };
+

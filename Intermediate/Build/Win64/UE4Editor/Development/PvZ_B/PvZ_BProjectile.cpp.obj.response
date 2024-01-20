@@ -231,8 +231,8 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I C:\Users\PC\Documents\PvZ_B\Intermediate\Build\Win64\UE4Editor\Inc\PvZ_B
-/I C:\Users\PC\Documents\PvZ_B\Source
+/I C:\Users\PC\source\repos\PvZ-Verano\Intermediate\Build\Win64\UE4Editor\Inc\PvZ_B
+/I C:\Users\PC\source\repos\PvZ-Verano\Source
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -262,12 +262,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
-/FI"C:\Users\PC\Documents\PvZ_B\Intermediate\Build\Win64\PvZ_BEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\PC\Documents\PvZ_B\Intermediate\Build\Win64\PvZ_BEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\PC\Documents\PvZ_B\Intermediate\Build\Win64\PvZ_BEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\PC\Documents\PvZ_B\Source\PvZ_B\PvZ_BProjectile.cpp"
-/FI"C:\Users\PC\Documents\PvZ_B\Intermediate\Build\Win64\UE4Editor\Development\PvZ_B\Definitions.PvZ_B.h"
-/Fo"C:\Users\PC\Documents\PvZ_B\Intermediate\Build\Win64\UE4Editor\Development\PvZ_B\PvZ_BProjectile.cpp.obj"
+/FI"C:\Users\PC\source\repos\PvZ-Verano\Intermediate\Build\Win64\PvZ_BEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\PC\source\repos\PvZ-Verano\Intermediate\Build\Win64\PvZ_BEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\PC\source\repos\PvZ-Verano\Intermediate\Build\Win64\PvZ_BEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\PC\source\repos\PvZ-Verano\Source\PvZ_B\PvZ_BProjectile.cpp"
+/FI"C:\Users\PC\source\repos\PvZ-Verano\Intermediate\Build\Win64\UE4Editor\Development\PvZ_B\Definitions.PvZ_B.h"
+/Fo"C:\Users\PC\source\repos\PvZ-Verano\Intermediate\Build\Win64\UE4Editor\Development\PvZ_B\PvZ_BProjectile.cpp.obj"
 /TP
 /GR-
 /W4
